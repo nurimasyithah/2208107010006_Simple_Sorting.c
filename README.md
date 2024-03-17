@@ -1,5 +1,5 @@
-# Nuri Masyithah
-# 2208107010006_Simple_Sorting.c
+Nuri Masyithah
+2208107010006_Simple_Sorting.c
 
 
 **Cara Menjalankan Program:**
